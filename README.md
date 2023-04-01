@@ -618,16 +618,4 @@ Linux内核主要由 **进程管理**、**内存管理**、**设备驱动**、**
 <br/>
 <br/>
 
-<h3 >金主爸爸</h3> 
-
----
-
-##### 安利术语：零声，专注于C/C++，Linux，Nginx，ZeroMQ，MySQL，Redis，fastdfs，MongoDB，ZK，流媒体，CDN，P2P，K8S，Docker，TCP/IP，协程，DPDK, SPDK, bpf/ebpf等等相关技术分享。本repo由零声的小伙伴推动以及所有提交patch的小伙伴（后面鸣谢部分）参与，共同完成。内容来源于互联网，本repo仅限于整理总结。
-
-##### 零声Linux内核/驱动技术交流群:1084338148, [偶遇技术大佬交流，不定期书籍红包福利，每晚技术直播通知！](https://jq.qq.com/?_wv=1027&k=rzJtyEnb)
-
-##### 点击进入 [每晚八点内核技术直播https://ke.qq.com/course/4032547?flowToken=1040236](https://ke.qq.com/course/4032547?flowToken=1040236)
-
-<br/>
-<br/>
 
